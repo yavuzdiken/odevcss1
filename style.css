@@ -1,0 +1,125 @@
+img
+{
+    width: 250px;
+    height: 200px;    
+    position: relative;
+    margin-left: 600px;
+}
+.linkler{
+    list-style-type: none;
+    display: inline-flex;
+    text-align: center;
+    text-decoration:none;
+
+}
+
+
+.buton{
+    transition: all .5s ease;
+    margin: 20px;
+    text-transform: uppercase;
+    background-color :yellow;
+    margin-right: 10px;
+}
+
+button:hover{
+    color: wheat;
+    background-color:#5d3ebc;
+    font-size: 20px;
+    border-radius: 4px;
+
+}
+.navi{
+    margin-left: 520px;
+}
+
+.anasayfa {
+    text-align: center;
+    color: purple;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.urunlerimiz {
+    text-align: center;
+    color: purple;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.hakkimizda{
+    text-align: center;
+    color: purple;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.paragraflink{
+    list-style-type: none;
+
+}
+.paragrafortala{
+    text-align: center;
+}
+.paragrafortalasari{
+    color: rgb(100, 95, 4);
+    text-align: center;
+}
+.yellowcolor{
+    color: rgb(176, 176, 0);
+}
+.resimfloat{
+    display: inline-flex;
+}
+article div img {
+    margin: 15px;
+    padding: 0;
+}
+.mavicolor{
+    color: darkblue;
+    font-weight: bold;
+}
+.resimfloat{
+    float: left;
+    margin: 0; padding: 0;
+    margin-left: 25px;
+
+}
+.etkinlik1{
+    border: 0 solid black;
+    margin-bottom: 250px;
+    width: 90%;
+}
+.backendfoto{
+    border: 0 solid black;
+    margin: 15px;
+    outline: 100%;
+    float: left;
+    width: 100%;
+}
+.backendjava
+{
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 0;
+}
+.backendphp{
+    border: 0 solid black;
+    margin: 0;
+    margin-right: 15px;
+    margin-left: 0;
+}
+.backendphpfoto{
+    width: 90%;
+    border: 0 solid black;
+}
+.iosdev{
+    margin-left: 0;
+    margin-top: 0;
+}
+.iosfoto{
+    border: 0  solid black;
+    width: 90%;
+}
+.gamefoto{
+    border: 0 solid black;
+    width: 90%;
+}
+.gamedev{
+    margin-top: 0;
+    margin-left: 0;
+}
